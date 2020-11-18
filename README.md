@@ -2,7 +2,7 @@
 https://food-recipe-finder.netlify.app/
 
 
-<img src="https://raw.githubusercontent.com/devnuru/food-recipe/master/devnuru-food-recipe.png/devnuru-food-recipe.png?raw=true" />
+<img src="https://github.com/devnuru/food-recipe/blob/master/devnuru-food-recipe.png" />
 
 # Getting Started with Create React App
 
